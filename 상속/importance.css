@@ -1,0 +1,16 @@
+#winning {
+  background-color: blueviolet;
+  border: 1px solid black;
+}
+
+.better {
+  background-color: gray;
+  border: 10px solid red !important;
+}
+
+p {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  border: 10px solid green;
+}

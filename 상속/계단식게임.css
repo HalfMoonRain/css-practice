@@ -1,0 +1,15 @@
+/* 1-1-3*/
+#outer div ul .nav a {
+  background-color: blue;
+  padding: 5px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+div div li a {
+  color: yellow;
+}
+
+#inner ul .nav:nth-child(2) a {
+  background-color: black;
+}
